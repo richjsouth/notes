@@ -1,0 +1,7 @@
+---
+tags: note-taking, zettelkasten
+---
+
+# References. Although you are encouraged to write in your own words, you are also encouraged to reference the original source in the note. This is especially useful for those using the Zettelkasten to organize material for academic writing, where you must cite your sources. Generally, a separate reference manager is used and an app like Zettlr even lets you integrate with Zotero.
+
+ref: https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/
