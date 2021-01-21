@@ -11,7 +11,3 @@ tags: spirituality, jesuit, St. Ignatius Loyola
 [[2021-01-05-15-56Q]] - Who was St. Ignatius
 [[2021-01-01-16-10Q]] - Incarnational Spirituality: Definition
 [[2020-01-05-16-12Q]] - Ignation Definition
-
-
-]
-
