@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "f89ea896b38575a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83f79edea422789",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ignation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "332bc8445a78ae13",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0986e3eefbd92bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6e1519a80849d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ec5352cbea80ed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209
+  },
+  "right": {
+    "id": "a4b27e389f58ff44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20b700f26e2066d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef45e06f1d32170",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ignation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Ignation.md",
+    "2020-01-12-14-23Q.md",
+    "2021-01-21-08-58Q.md",
+    "NoteTaking.md",
+    "Mindset.md",
+    "2021-01-04-17-14Q.md",
+    "2021-01-04-16-31Q.md",
+    "2021-01-04-17-11Q.md",
+    "2020-01-05-16-12Q.md",
+    "2021-01-01-16-10Q.md"
+  ]
+}
